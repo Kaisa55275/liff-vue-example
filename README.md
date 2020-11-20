@@ -1,5 +1,9 @@
 # liff-vue-example
-
+## LIFF
+```
+LINE Front-end Framework
+(https://developers.line.biz/ja/docs/liff/overview/)
+```
 ## Project setup
 ```
 yarn install
