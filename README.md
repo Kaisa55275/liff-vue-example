@@ -1,7 +1,7 @@
 # liff-vue-example
 
 ブログもみてね
-- (https://titanicrising.jp/blog/vue-liff)
+(https://titanicrising.jp/blog/vue-liff)
 ## LIFF
 ```
 LINE Front-end Framework
